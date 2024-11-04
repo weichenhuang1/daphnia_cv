@@ -35,7 +35,7 @@ This should print the total distance travelled by the daphnia in the video in pi
 
 TROUBLESHOOTING:
 if it says no module found for cv2 or numpy, try:
-python -m pip install cv2
+python -m pip install opencv
 and 
 python -m pip install numpy
 
